@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+}
+.header{
+  display: flex;
+  flex-direction: column;
+  
+}
+.header h1{
+  margin: 0 auto;
+  padding: 30px;
+  margin-bottom: 30px;
+}
+.footer{
+  display: flex;
+  flex-direction: column;
+}
+.footer h1{
+  margin: auto;
+}
+#container,#container1{
+  display: flex;
+  justify-content: center;
+}
